@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a second-year Computer Engineering student at PICT, Pune, with a strong interest in building scalable, real-world tech solutions. <br> I work as a Full Stack Developer, combining clean frontend design with robust backend systems.
+I’m a second-year Computer Engineering student at PICT, Pune, with a strong interest in building scalable, real-world tech solutions. I work as a Full Stack Developer, combining clean frontend design with robust backend systems.
 <br>
 I’m also exploring Machine Learning and AI, particularly LLMs and AI agents, and enjoy applying intelligent systems to solve practical problems. I’m always eager to learn, build, and collaborate on impactful projects.
 
